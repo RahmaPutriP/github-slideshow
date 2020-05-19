@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dance, Whirl, O Cherry Blossom of The Night
 Use the left arrow to go back!
